@@ -1,0 +1,54 @@
+@charset "UTF-8";
+.navlist {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-weight: 400;
+    list-style-type: none;
+    float: right;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+    background-color: #FDFDFD;
+    color: #FFFFFF;
+    text-shadow: 0px 0px #FFFFFF;
+    margin-left: 43px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    visibility: inherit;
+    -webkit-box-shadow: 0px 0px #FFFFFF;
+    box-shadow: 0px 0px #FFFFFF;
+}
+.caysaloo {
+    color: #000000;
+    position: relative;
+    width: 100%;
+    -webkit-box-shadow: 0px 0px #000000;
+    box-shadow: 0px 0px #000000;
+    border-width: 0px;
+}
+.thmbnail {
+    text-align: center;
+    margin-top: 9px;
+    margin-right: 9px;
+    margin-bottom: 9px;
+    margin-left: 9px;
+    float: right;
+    padding-top: 27px;
+    padding-right: 27px;
+    padding-bottom: 27px;
+    padding-left: 27px;
+}
+body table {
+    border: 0;
+    -webkit-box-shadow: inset 0px 0px #F4F4F4;
+    box-shadow: inset 0px 0px #F4F4F4;
+    background-color: #000000;
+}
+.labels {
+    color: #FFFFFF;
+    text-align: center;
+}
+.tableworks {
+    background-color: #F5F5F5;
+}
